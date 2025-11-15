@@ -1,0 +1,16 @@
+{"time":"2025-10-06T19:28:15.827839142+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.1"}
+{"time":"2025-10-06T19:28:16.026000228+05:30","level":"ERROR","msg":"featurechecker: failed to load features, all will be disabled","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate is valid for *.iitk.ac.in, iitk.ac.in, not api.wandb.ai"}
+{"time":"2025-10-06T19:28:16.026165131+05:30","level":"INFO","msg":"stream: created new stream","id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.026306582+05:30","level":"INFO","msg":"stream: started","id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.026354427+05:30","level":"INFO","msg":"writer: started","stream_id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.026448344+05:30","level":"INFO","msg":"sender: started","stream_id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.026449366+05:30","level":"INFO","msg":"handler: started","stream_id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.034692881+05:30","level":"WARN","msg":"runupserter: server does not expand metric globs but the x_server_side_expand_glob_metrics setting is set; ignoring"}
+{"time":"2025-10-06T19:28:16.043014918+05:30","level":"ERROR","msg":"runupserter: failed to init run","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 1 attempt(s): Post \"https://api.wandb.ai/graphql\": tls: failed to verify certificate: x509: certificate is valid for *.iitk.ac.in, iitk.ac.in, not api.wandb.ai"}
+{"time":"2025-10-06T19:28:16.057668744+05:30","level":"INFO","msg":"stream: closing","id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.058257445+05:30","level":"ERROR","msg":"sender: uploadConfigFile: runupserter: run not yet initialized"}
+{"time":"2025-10-06T19:28:16.109060669+05:30","level":"ERROR","msg":"runfiles: runupserter: run not yet initialized"}
+{"time":"2025-10-06T19:28:16.110156026+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-06T19:28:16.110204001+05:30","level":"INFO","msg":"handler: closed","stream_id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.110288026+05:30","level":"INFO","msg":"sender: closed","stream_id":"cnpr809r"}
+{"time":"2025-10-06T19:28:16.110306049+05:30","level":"INFO","msg":"stream: closed","id":"cnpr809r"}

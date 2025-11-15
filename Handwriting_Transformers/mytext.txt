@@ -1,0 +1,1 @@
+Welcome to CS787 Generative AI course. This is a sample text to test the Handwriting Transformer model. This model is a GAN based model that has 4 components Generator, Discriminator, Recognizer, Writer identifier.
